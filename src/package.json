@@ -1,0 +1,11 @@
+{
+  "name": "",
+  "private": true,
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "yarn workspace root build"
+  },
+  "workspaces": ["themes/resume", "root"]
+}

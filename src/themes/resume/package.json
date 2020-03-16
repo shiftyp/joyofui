@@ -1,0 +1,11 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": "true",
+  "author": "Ryan Lynch",
+  "license": "MIT",
+  "peerDependencies": {
+    "gatsby": "^2.6.0"
+  }
+}
